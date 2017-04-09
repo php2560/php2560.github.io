@@ -22,9 +22,9 @@ title: Who can you Contact?
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <input type="hidden" name="_subject" value="New submission from php2560.com">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
