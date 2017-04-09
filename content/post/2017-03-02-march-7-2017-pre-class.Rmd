@@ -1,0 +1,13 @@
+---
+title: March 7, 2017 - Pre-Class
+date: '2017-03-02'
+slug: march-7-2017-pre-class
+categories:
+  - Pre-Class
+  - R
+tags:
+  - Github
+  - R
+  - Functions
+---
+

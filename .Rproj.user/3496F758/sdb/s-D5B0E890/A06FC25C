@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\ndate = \"2016-04-20T00:00:00\"\ndraft = false\n\ntitle = \"PHP 2560\"\nsubtitle = \"**Statistical Programming with R**\"\n\n# Order that this section will appear in.\nweight = 1\n\n+++\n\n<!--\n<div style=\"text-align: center;\">\n<h1>Academic</h1>\n<h2 style=\"margin-top: 0;\">Create a beautifully simple personal or academic website</h2>\n</div>\n-->\n\n<div style=\"height: 5px;\"></div>\n\n{{% jumbotron %}}\nThis is the course site for PHP 2560: Statistical Programming with R. This course is part of the core sequence of courses in the [Biostatistics Master's Program](https://www.brown.edu/academics/public-health/biostatistics/educational-programs/masters-program) at Brown University.\n\n<div style=\"text-align: center;\">\n  <a class=\"btn btn-intro btn-lg\" href=\"./post/syllabus/\">The Syllabus</a>\n</div>\n\nExplore the homepage below and then head over to [Posts](#posts) section for the latest class news.\n\n\n<div style=\"text-align: center;\">\n  <a class=\"btn btn-intro btn-sm\" style=\"font-size: 1rem; margin-bottom: 0;\" href=\"https://twitter.com/intent/tweet?text=I%27m%20taking%20PHP%202560%20with%20%20%40sullivanstats\" target=\"_blank\">Tweet It!</a>\n</div>\n\n{{% /jumbotron %}}",
+    "created" : 1491764749415.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3574536925",
+    "id" : "A06FC25C",
+    "lastKnownWriteTime" : 1487890807,
+    "last_content_update" : 1487890807,
+    "path" : "C:/Users/adam_/Dropbox/Brown/PHP2560/website/content/home/intro.md",
+    "project_path" : "content/home/intro.md",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
