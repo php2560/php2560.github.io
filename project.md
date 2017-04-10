@@ -1,178 +1,67 @@
 ---
 layout: page
-title: Final Project and Paper!
+title: Final Shiny App and Paper!
 ---
 
-# Personal Interests of Replication Paper
+##Overview
+  
+The goal of this final project is to merge what you have learned from statistical
+programming and create something useful for another researcher or future student to use. 
 
-This project will be your choice of one of 2 options:
+It is very important in the world of Big Data and Computing that we learn how to present and display material for audiences with diverse backgrounds to enage in. We need to take the code and the skills we have and put them to use for an audience that does not have the same skills. 
 
-1. [Personal Interest Data Analysis](#personal-interest-project-description)
-2. [Replication and extension Paper](#replication-and-extension-project-description)
+## Project Guidelines
 
-
-
-## Personal Interest Project Description
-
-In this project, you will work to answer your own research questions. The primary goal of this project is to use the regression analysis in that you have learned in this course to answer your own research question. 
-
-
-The secondary goals of this project are to 
-
-1. Give you practice learning how to ask a research question. 
-2. Give you practice interpreting a research question into statistical methods.
-3) Give you practice learning apply statistical methods and computational techniques.
-4) Display the true complexities to working with real data and and an open ended question. 
-
-## Replication and Extension Project Description
-
-In this project, you will work to reproduce and extend a published research article. The primary goal of this project is to take a published research paper and to replicate all of the tables and statistical models, then to extend these models for your own research question. 
+###Individual Aspect
+1. Go to the [Shiny](http://shiny.rstudio.com/) website.
+    a. Explore the [gallery](http://shiny.rstudio.com/gallery/) of Project ideas. 
+    b. Follow the [Tutorial](http://shiny.rstudio.com/tutorial/)
+    c. To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a $z$ value and gives a p-value. 
+    
+### Group Aspect
+2. As a group your first task will be to come up with an idea for a Shiny app and to write the code for this. In order to facilitate this more I will provide some structure. 
+    a. Your app must allow a researcher to load in either data or a file. 
+    b. Your app must display some type of interactive user interface aspects. 
+        + For example - [Normal Calculator](http://shiny.sullivanstatistics.com/NormCalc): In this app I created depending on where the researcher wants to shade the normal distribution different boxes will pop up after the researcher makes a choice. 
+    c. You app must display graphical as well as statistical output. 
+    d. Your app must not be created copying code from an example app that is out there.
+        + We want to make sure you are not plagerizing. In the Normal Calculator app I provided, it appears similar to the DistCalc app from the shiny gallery, however the code behind it comes from my own code and graphing work that I have done in the past. None was copied or pasted from another Shiny app.
+    e. Your app must function properly and be useful. 
 
 
-The secondary goals of this project are to 
-
-1. Give you practice learning how to evaluate published research. 
-2. Give you practice interpreting a research question into statistical methods.
-3) Give you practice learning apply statistical methods and computational techniques.
-4) Display the true complexities to working with real data and and an open ended question. 
+## Dates of Importance
 
 
 
-## Project Requirements
-
-For the project, you must follow the schedule and meet certian technical requirements.
-
-Here are the six steps to the project:
-
-- [Pick Data that you will be using](#pick-a-paper-or-data-that-you-will-be-using)
-- [Get your plan approved](#get-your-plan-approved)
-- [Analyze the data](#analyze-the-data)
-- [Write up your analysis](#write-up-your-analysis)
-
-
+1. 04/17/2016 - During this week you will be learning how to write a shiny app.
+    - Your calculator must be in a single file format.
+    - Must be done individually.
+    - Turn in Critiques of other groups work (group assignment)
+2. 04/24/2017 - Form a group of 3-4 people and have an idea of what kind of app you want to create by this date.     - Provide me with an explanation of:
+    - What your app will do?
+    - How do you see it being used?
+    - What types of options might you try to included for the user.
+3. 05/02/2017-05/03/2017 
+    - We will spend 2 classes this week working on your app
+    - Bring a rough copy of your app to class.
+    - We will critique apps as a class.
+4. 05/09/2017
+    - We will take this last class to explore the apps together.
+    - Each group will briefly discuss their app and show how to use it.
+    - Presentations must be concise and display usage of the app.
+5. 05/16/2017 - Final App due to me.
+    - You must have your final app in either a 1 or 2 file format.
+    - Provide an explanation of how it is to be used and discussing the creation of it.
+    - Detail the parts of the app you did individually.
+    - Submit form on grading your group members work and contribution to the project.
  
 
+##Rubric For Project
 
-### Pick a Paper or Data that you will be using.
-
-
-You should pick a paper or data that is interesting to you. There are many data sources that you can consider. 
-
-- [Links to Many Data Sources](http://www.asdfree.com/)
-
-
-If you want to replicate a paper, you should try to find a paper that has data available. Make sure the methods used in the paper are what is being used in this class. 
-
-If you are looking for papers to replicate here are some strategies that you could use:
-
-Feel free to browse examples of papers that have been replicated by students in the past: 
-
-
-- [Dataverse for Harvard's Gov2001 course](http://projects.iq.harvard.edu/gov2001/data) 
-- [Dataverse for Cambridge Replication Workshop](https://thedata.harvard.edu/dvn/dv/CambridgeReplication)
-- [Links to Many Data Sources](http://www.asdfree.com/)
-- [Dataverse](http://dataverse.org/)
-- [ISPS Data Archive](http://isps.yale.edu/research/data)
-- [OPR Data Archive](http://opr.princeton.edu/archive/)
-- [TESS](http://www.tessexperiments.org/previousstudies.html)
-- [ICPSR](http://www.icpsr.umich.edu/icpsrweb/ICPSR/)
-
-
-
-### Get your plan approved.
-
-
-Before you get too involved in this project you will submit a one page summary of:
-
-- What Project you plan to do. 
-- What paper/data you plan to use.
-- Question of interest.
-- Ideas of what types of Analysis you will need to perform
-
-This should be complete this by ***April 17, 2017***. Include the following in this proposal:
-
-
-
-- Citation information for the paper/data.
-- List of main statistical methods used
-- List of datasets used Were these datasets collected via complex sample designs? 
-- Summary of data availability and data access plan
-- Summary of code availability (may be helpful for replication paper)
-- Questions that you wish to answer above and beyond research
-- Short explanation for why you picked this paper/data
-
-
-### Analyze the data.
-
-
-Begin to analyze the data. If this is for your own personal paper. You will need to consider the following:
-
-- Basic Summary Statistics
-- Univariate Models
-- Multiple Regression models.
-- Figures that are useful. 
-
-If you are replicating a paper, you will need to follow the analysis that the other paper did, replicate all tables and figures. 
-
-You should have this done by ***May 1, 2017***. 
-
-
-
-### Write up your analysis.
-
-
-
-#### Personal Interest Question
-
-If this is a paper for your own personal research question you should have this paper look similar to most journal articles. For a better idea of this consider:
-
-- [The Structure, Format, Content, and Style of a Journal-Style Scientific Paper](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTW_Guide_Sections_3-7-2011.pdf)
-
-
-#### Replication of Paper
-
-If your goal is to reproduce a paper. You need to reproduce the results exactly. 
-You should be able to re-create every table and graph in the paper. Focus on the replicating the content of the tables and not the layout.  
-
-Begin your replication by creating a document with images of each table and each figure. Next, add the parts of the text where the authors describe how the results were generated. Finally, create code that reproduces the results. This document will be highly structured. For example,
-
-- Image of Table 1
-- Text describing how Table 1 was created
-- Your code to reproduce Table 1
-
-
-Use the structure described below:
-
-- [The Structure, Format, Content, and Style of a Journal-Style Scientific Paper](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTW_Guide_Sections_3-7-2011.pdf)
-
-
-Remember you should somehow extend or improve the paper you are reproducing. Here are some examples of how you could do that:
-
-- create different visualizations of their data and results.
-- extend the analysis by using different methods or asking different questions.
-- re-run the same analysis on completely different data.
-- take an old paper and update the analysis with newer data.
-
-
-For more help you can read [this paper by Gary King](http://gking.harvard.edu/files/gking/files/paperspub.pdf)
-
-
-Suggested Replication further reading:
-
-- Janz (2015) [Bringing the gold standard into the classroom: Replication in university teaching. International Studies Perspectives.](http://dx.doi.org/10.1111/insp.12104)
-- King (2006) [Publication, publication. Ps: Political Science and Politics.](http://gking.harvard.edu/files/gking/files/paperspub.pdf)
-- King (1995) [Replication, replication. Ps: Political Science and Politics .](http://gking.harvard.edu/files/gking/files/replication.pdf)
-- [Princeton Sociology 504 Replication Projects.](https://github.com/soc504-s2015-princeton/links_to_projects)
-
-
-
-
-# Schedule
-
-|-----------|-------------|
-| Date | Item Due|
-| ---- | ------- | 
-| 04/17/2017 | Proposal Due | 
-| 05/01/2017 | Most of Analysis Should be done | 
-| 05/18/2017 | Final paper Due|
+Grade Category | Points
+-------------- | ------------
+Tutorial/ Simple App | 20 
+App Idea and Explanation | 10 
+App and Presentation | 60
+Group Evaluations | 10
 
