@@ -24,10 +24,10 @@ It is very important in the world of Big Data and Computing that we learn how to
 2. As a group your first task will be to come up with an idea for a Shiny app and to write the code for this. In order to facilitate this more I will provide some structure. 
     a. Your app must allow a researcher to load in either data or a file. 
     b. Your app must display some type of interactive user interface aspects. 
-      - For example - [Normal Calculator](http://shiny.sullivanstatistics.com/NormCalc): In this app I created depending on where the researcher wants to shade the normal distribution different boxes will pop up after the researcher makes a choice. 
+        - For example - [Normal Calculator](http://shiny.sullivanstatistics.com/NormCalc): In this app I created depending on where the researcher wants to shade the normal distribution different boxes will pop up after the researcher makes a choice. 
     c. You app must display graphical as well as statistical output. 
     d. Your app must not be created copying code from an example app that is out there.
-      - We want to make sure you are not plagerizing. In the Normal Calculator app I provided, it appears similar to the DistCalc app from the shiny gallery, however the code behind it comes from my own code and graphing work that I have done in the past. None was copied or pasted from another Shiny app.
+        - We want to make sure you are not plagerizing. In the Normal Calculator app I provided, it appears similar to the DistCalc app from the shiny gallery, however the code behind it comes from my own code and graphing work that I have done in the past. None was copied or pasted from another Shiny app.
     e. Your app must function properly and be useful. 
 
 
