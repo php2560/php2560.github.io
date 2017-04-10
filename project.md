@@ -3,7 +3,7 @@ layout: page
 title: Final Shiny App and Paper!
 ---
 
-##Overview
+## Overview
   
 The goal of this final project is to merge what you have learned from statistical
 programming and create something useful for another researcher or future student to use. 
@@ -12,7 +12,7 @@ It is very important in the world of Big Data and Computing that we learn how to
 
 ## Project Guidelines
 
-###Individual Aspect
+### Individual Aspect
 1. Go to the [Shiny](http://shiny.rstudio.com/) website.
     a. Explore the [gallery](http://shiny.rstudio.com/gallery/) of Project ideas. 
     b. Follow the [Tutorial](http://shiny.rstudio.com/tutorial/)
