@@ -15,9 +15,9 @@ It is very important in the world of Big Data and Computing that we learn how to
 ### Individual Aspect
 
 1. Go to the [Shiny](http://shiny.rstudio.com/) website.
-  a. Explore the [gallery](http://shiny.rstudio.com/gallery/) of Project ideas. 
-  b. Follow the [Tutorial](http://shiny.rstudio.com/tutorial/)
-  c. To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a $z$ value and gives a p-value. 
+    - Explore the [gallery](http://shiny.rstudio.com/gallery/) of Project ideas. 
+    - Follow the [Tutorial](http://shiny.rstudio.com/tutorial/)
+    - To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a $z$ value and gives a p-value. 
     
 ### Group Aspect
 
