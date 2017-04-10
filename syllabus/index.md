@@ -78,10 +78,7 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 <h1>Evaluation</h1>
 <p>Students will be evaluated based on:</p>
 <table style="width:78%;">
-<colgroup>
-<col width="31%"></col>
-<col width="45%"></col>
-</colgroup>
+
 <thead>
 <tr class="header">
 <th align="left">Grade Category</th>
