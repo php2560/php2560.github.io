@@ -55,9 +55,9 @@ myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE,
 
 Statistical computing is an essential part of analysis. Statisticians need not only be able to run existing computer software but understand how that software functions. Students will learn fundamental concepts - Data Management, Data types, Data cleaning and manipulation, databases, graphics, functions, loops, simulation and Markov Chain Monte Carlo through working with various statistical analysis. Students will learn to write code in an organized fashion with comments. This course will use a variety of web-based material from:
 
-- \href{www.statseducation.com}{www.statseducation.com}
-- \href{rstudio.sullivanstatistics.com}{rstudio.sullivanstatistics.com}
-- \href{https://www.github.com}{Github}
+- [www.statseducation.com](www.statseducation.com)
+- [rstudio.sullivanstatistics.com](rstudio.sullivanstatistics.com)
+- [https://www.github.com](Github)
 
 # Course Format
 
@@ -97,21 +97,13 @@ Students should have courses in probability and statistical inference at the lev
 
 # Recommended Textbooks
 
-```{r, echo = FALSE, results="asis", message= FALSE, warning=FALSE} 
-bib["Matloff"]
-``` 
 
-```{r, echo = FALSE, results="asis", message= FALSE, warning=FALSE} 
-bib["Rizzo"]
-``` 
 
-```{r, echo = FALSE, results="asis", message= FALSE, warning=FALSE} 
-bib["Jones"]
-``` 
 
-```{r, echo = FALSE, results="asis", message= FALSE, warning=FALSE} 
-bib["Teetor"]
-``` 
+- Matloff, Norman (2011). [The Art of Programming](https://www.nostarch.com/artofr.htm). No Starch Press.
+- Rizzo, Maria L. (2007). [Statistical Computing with R](https://www.crcpress.com/Statistical-Computing-with-R/Rizzo/9781584885450). Chapman and Hall/CRC.
+- Jones, Owens; Maillardet, Robert & Robinson, Andrew. (2011). [An Introduction to Scientific Programming and Simulation Using R](https://www.crcpress.com/Introduction-to-Scientific-Programming-and-Simulation-Using-R-Second-Edition/Jones-Maillardet-Robinson/9781466569997). Chapman and Hall/CRC.
+- Teetor, Paul. (2011). [R Cookbook](http://shop.oreilly.com/product/9780596809164.do).  O'Reilly Media.
 
 
 
@@ -283,9 +275,26 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - Teetor Chap 13
 
 
+##  `r advdate(mon, 7)`: Functions in R Part 2
+
+- Writing and Debugging Functions in R
+- *Required Reading*:
+    - Matloff Chap 12-14
+    - Rizzo Chap 4
+    - Jones Chap 7-9
+    - Teetor Chap 13
     
     
-##  `r advdate(mon, 7)`: Simulation
+##  `r advdate(mon, 8)`: Snow Day
+
+
+
+***No Class - Snow Day***
+
+
+
+
+##  `r advdate(mon, 9)`: Simulation
 
 
 - Basics of Simulation
@@ -295,16 +304,25 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - Rizzo Chap 3
     - Jones Chap 20
     
-    
-##  `r advdate(mon, 8)`: SQL
+
+##  `r advdate(mon, 10)`: Spring Break
+
+
+
+***No Class - Spring Break***
+
+
+##  `r advdate(mon, 11)`: SQL
 
 - Basic SQL Commands.
 - Accessing MySQL on a server. 
 - *Required Readings*:
     - TBD
+    
 
 
-##  `r advdate(mon, 9)`: Working with Dplyr and Tidyr
+
+##  `r advdate(mon, 12)`: Working with Dplyr and Tidyr
 
 - Cleaning Data with Dplyr and Tidyr.
 - Using Dplyr on MySql databases. 
@@ -312,7 +330,7 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - TBD
 
 
-##  `r advdate(mon, 10)`: Graphics in R
+##  `r advdate(mon, 13)`: Graphics in R
 
 
 - `ggplot2` in R
@@ -320,40 +338,31 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - TBD
 
 
-##  `r advdate(mon, 11)`: Spring Break
 
-***No Classes - Spring Break***
-
-##  `r advdate(mon, 12)`: Package Building in R
+##  `r advdate(mon, 14)`: Package Building in R
 
 - Creating packages in R
 - *Required Readings*:
     - [R Packages](http://r-pkgs.had.co.nz/)
 
-## `r advdate(mon, 13)`: Package Building in R Continued
+## `r advdate(mon, 15)`: Package Building in R Continued & Shiny Apps
 
-- Creating packages in R
-- *Required Readings*:
-    - [R Packages](http://r-pkgs.had.co.nz/)
 
-##  `r advdate(mon, 14)`: Shiny Apps
-
-- Creating packages in R
-- *Required Readings*:
-    - TBD
+- Monday or Wednesday Class
+    - Creating packages in R
+    - *Required Readings*:
+      - [R Packages](http://r-pkgs.had.co.nz/)
+- Tuesday Class
+    - Creating packages in R
+    - *Required Readings*:
+      - TBD
     
-##  `r advdate(mon, 15)`: Shiny Apps Continued
-
-- Creating packages in R
-- *Required Readings*:
-    - TBD
-
-
 ##  `r advdate(mon, 16)`: Shiny Apps Continued
 
 - Creating packages in R
 - *Required Readings*:
     - TBD
+
 
 \newpage
 

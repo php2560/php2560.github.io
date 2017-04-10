@@ -8,9 +8,9 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 <h1>Course Description</h1>
 <p>Statistical computing is an essential part of analysis. Statisticians need not only be able to run existing computer software but understand how that software functions. Students will learn fundamental concepts - Data Management, Data types, Data cleaning and manipulation, databases, graphics, functions, loops, simulation and Markov Chain Monte Carlo through working with various statistical analysis. Students will learn to write code in an organized fashion with comments. This course will use a variety of web-based material from:</p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="www.statseducation.com" class="uri">www.statseducation.com</a></li>
+<li><a href="rstudio.sullivanstatistics.com" class="uri">rstudio.sullivanstatistics.com</a></li>
+<li><a href="Github">https://www.github.com</a></li>
 </ul>
 </div>
 <div id="course-format" class="section level1">
@@ -38,10 +38,12 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </div>
 <div id="recommended-textbooks" class="section level1">
 <h1>Recommended Textbooks</h1>
-<p> Matloff, Norman (2011). . No Starch Press. .</p>
-<p> Rizzo, Maria L. (2007). . Chapman and Hall/ CRC. .</p>
-<p>list()</p>
-<p> Teetor, Paul (2011). . O’Reilly Media, Inc. .</p>
+<ul>
+<li>Matloff, Norman (2011). <a href="https://www.nostarch.com/artofr.htm">The Art of Programming</a>. No Starch Press.</li>
+<li>Rizzo, Maria L. (2007). <a href="https://www.crcpress.com/Statistical-Computing-with-R/Rizzo/9781584885450">Statistical Computing with R</a>. Chapman and Hall/CRC.</li>
+<li>Jones, Owens; Maillardet, Robert &amp; Robinson, Andrew. (2011). <a href="https://www.crcpress.com/Introduction-to-Scientific-Programming-and-Simulation-Using-R-Second-Edition/Jones-Maillardet-Robinson/9781466569997">An Introduction to Scientific Programming and Simulation Using R</a>. Chapman and Hall/CRC.</li>
+<li>Teetor, Paul. (2011). <a href="http://shop.oreilly.com/product/9780596809164.do">R Cookbook</a>. O’Reilly Media.</li>
+</ul>
 </div>
 <div id="course-objectives" class="section level1">
 <h1>Course Objectives</h1>
@@ -208,8 +210,25 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-06-0306---0310-simulation" class="section level2">
-<h2>Week 06, 03/06 - 03/10: Simulation</h2>
+<div id="week-06-0306---0310-functions-in-r-part-2" class="section level2">
+<h2>Week 06, 03/06 - 03/10: Functions in R Part 2</h2>
+<ul>
+<li>Writing and Debugging Functions in R</li>
+<li><em>Required Reading</em>:
+<ul>
+<li>Matloff Chap 12-14</li>
+<li>Rizzo Chap 4</li>
+<li>Jones Chap 7-9</li>
+<li>Teetor Chap 13</li>
+</ul></li>
+</ul>
+</div>
+<div id="week-07-0313---0317-snow-day" class="section level2">
+<h2>Week 07, 03/13 - 03/17: Snow Day</h2>
+<p><strong><em>No Class - Snow Day</em></strong></p>
+</div>
+<div id="week-08-0320---0324-simulation" class="section level2">
+<h2>Week 08, 03/20 - 03/24: Simulation</h2>
 <ul>
 <li>Basics of Simulation</li>
 <li>Simulating Distributions and MCMC.</li>
@@ -221,8 +240,12 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-07-0313---0317-sql" class="section level2">
-<h2>Week 07, 03/13 - 03/17: SQL</h2>
+<div id="week-09-0327---0331-spring-break" class="section level2">
+<h2>Week 09, 03/27 - 03/31: Spring Break</h2>
+<p><strong><em>No Class - Spring Break</em></strong></p>
+</div>
+<div id="week-10-0403---0407-sql" class="section level2">
+<h2>Week 10, 04/03 - 04/07: SQL</h2>
 <ul>
 <li>Basic SQL Commands.</li>
 <li>Accessing MySQL on a server.</li>
@@ -232,8 +255,8 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-08-0320---0324-working-with-dplyr-and-tidyr" class="section level2">
-<h2>Week 08, 03/20 - 03/24: Working with Dplyr and Tidyr</h2>
+<div id="week-11-0410---0414-working-with-dplyr-and-tidyr" class="section level2">
+<h2>Week 11, 04/10 - 04/14: Working with Dplyr and Tidyr</h2>
 <ul>
 <li>Cleaning Data with Dplyr and Tidyr.</li>
 <li>Using Dplyr on MySql databases.</li>
@@ -243,8 +266,8 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-09-0327---0331-graphics-in-r" class="section level2">
-<h2>Week 09, 03/27 - 03/31: Graphics in R</h2>
+<div id="week-12-0417---0421-graphics-in-r" class="section level2">
+<h2>Week 12, 04/17 - 04/21: Graphics in R</h2>
 <ul>
 <li><code>ggplot2</code> in R</li>
 <li><em>Required Readings</em>:
@@ -253,12 +276,8 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-10-0403---0407-spring-break" class="section level2">
-<h2>Week 10, 04/03 - 04/07: Spring Break</h2>
-<p><strong><em>No Classes - Spring Break</em></strong></p>
-</div>
-<div id="week-11-0410---0414-package-building-in-r" class="section level2">
-<h2>Week 11, 04/10 - 04/14: Package Building in R</h2>
+<div id="week-13-0424---0428-package-building-in-r" class="section level2">
+<h2>Week 13, 04/24 - 04/28: Package Building in R</h2>
 <ul>
 <li>Creating packages in R</li>
 <li><em>Required Readings</em>:
@@ -267,32 +286,19 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 </ul></li>
 </ul>
 </div>
-<div id="week-12-0417---0421-package-building-in-r-continued" class="section level2">
-<h2>Week 12, 04/17 - 04/21: Package Building in R Continued</h2>
+<div id="week-14-0501---0505-package-building-in-r-continued-shiny-apps" class="section level2">
+<h2>Week 14, 05/01 - 05/05: Package Building in R Continued &amp; Shiny Apps</h2>
+<ul>
+<li>Monday or Wednesday Class
 <ul>
 <li>Creating packages in R</li>
-<li><em>Required Readings</em>:
-<ul>
+<li><em>Required Readings</em>:</li>
 <li><a href="http://r-pkgs.had.co.nz/">R Packages</a></li>
 </ul></li>
-</ul>
-</div>
-<div id="week-13-0424---0428-shiny-apps" class="section level2">
-<h2>Week 13, 04/24 - 04/28: Shiny Apps</h2>
+<li>Tuesday Class
 <ul>
 <li>Creating packages in R</li>
-<li><em>Required Readings</em>:
-<ul>
-<li>TBD</li>
-</ul></li>
-</ul>
-</div>
-<div id="week-14-0501---0505-shiny-apps-continued" class="section level2">
-<h2>Week 14, 05/01 - 05/05: Shiny Apps Continued</h2>
-<ul>
-<li>Creating packages in R</li>
-<li><em>Required Readings</em>:
-<ul>
+<li><em>Required Readings</em>:</li>
 <li>TBD</li>
 </ul></li>
 </ul>
