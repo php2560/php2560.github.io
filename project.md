@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Final Shiny App and Paper!
+published: true
 ---
 
 ## Overview
@@ -60,7 +61,7 @@ It is very important in the world of Big Data and Computing that we learn how to
     - Submit form on grading your group members work and contribution to the project.
  
 
-##Rubric For Project
+## Rubric For Project
 
 Grade Category | Points
 -------------- | ------------
@@ -68,4 +69,3 @@ Tutorial/ Simple App | 20
 App Idea and Explanation | 10 
 App and Presentation | 60
 Group Evaluations | 10
-
