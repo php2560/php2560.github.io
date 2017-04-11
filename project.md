@@ -18,7 +18,9 @@ It is very important in the world of Big Data and Computing that we learn how to
 1. Go to the [Shiny](http://shiny.rstudio.com/) website.
     - Explore the [gallery](http://shiny.rstudio.com/gallery/) of Project ideas. 
     - Follow the [Tutorial](http://shiny.rstudio.com/tutorial/)
-    - To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a $z$ value and gives a p-value. 
+    - Go through this [Walkthrough by Dean Attali](http://deanattali.com/blog/building-shiny-apps-tutorial/)
+    - To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a \(z\) value and gives a p-value. 
+
     
 ### Group Aspect
 
@@ -32,7 +34,13 @@ It is very important in the world of Big Data and Computing that we learn how to
     - Your app must function properly and be useful. 
     - Your app must run quickly and not be bulky.
     - Your app should be easy to use or contain detailed instructions.
-
+3. Go through all of the [past Shiny Apps created in PHP 2560](https://github.com/php2560/Final_Projects)
+    - Go into the code and download all of the necessary packages to make them run. 
+    - Run them using the commands in the README.md file of the repository. 
+    - Write a one paragraph critique of the app.
+        - Was it easy to use?
+        - Was it fast to use?
+        - How was the look and feel of it. 
 
 ## Dates of Importance
 
