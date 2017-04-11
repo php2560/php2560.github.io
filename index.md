@@ -26,10 +26,14 @@ This is the course site for PHP 2560: Statistical Programming with R. This cours
 
 <h1> Announcements</h1>
 
-1. We will not have class on **April 25, 2017**
-2. We will have 2 additional classes scheduled.
-    a. ***April 24, 2017*** from 2-5pm  Room TBD
-    b. ***May 1, 2017*** from 2-5pm Room TBD
-    
 
+
+<ol style="list-style-type: decimal">
+<li>We will not have class on <strong>April 25, 2017</strong></li>
+<li>We will have 2 additional classes scheduled.
+<ol style="list-style-type: lower-alpha">
+<li><strong><em>April 24, 2017</em></strong> from 2-5pm Room TBD</li>
+<li><strong><em>May 1, 2017</em></strong> from 2-5pm Room TBD</li>
+</ol></li>
+</ol>
 </div>
