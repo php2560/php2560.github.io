@@ -8,9 +8,9 @@ title: PHP 2511: Applied Regression Analysis Syllabus
 <h1>Course Description</h1>
 <p>Statistical computing is an essential part of analysis. Statisticians need not only be able to run existing computer software but understand how that software functions. Students will learn fundamental concepts - Data Management, Data types, Data cleaning and manipulation, databases, graphics, functions, loops, simulation and Markov Chain Monte Carlo through working with various statistical analysis. Students will learn to write code in an organized fashion with comments. This course will use a variety of web-based material from:</p>
 <ul>
-<li><a href="www.statseducation.com" class="uri">www.statseducation.com</a></li>
-<li><a href="rstudio.sullivanstatistics.com" class="uri">rstudio.sullivanstatistics.com</a></li>
-<li><a href="Github">https://www.github.com</a></li>
+<li><a href="http://www.statseducation.com" class="uri">www.statseducation.com</a></li>
+<li><a href="https://rstudio.sullivanstatistics.com" class="uri">rstudio.sullivanstatistics.com</a></li>
+<li><a href="https://www.github.com">https://www.github.com</a></li>
 </ul>
 </div>
 <div id="course-format" class="section level1">
