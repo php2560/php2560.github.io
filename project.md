@@ -46,14 +46,18 @@ It is very important in the world of Big Data and Computing that we learn how to
 
 
 
-1. 04/17/2016 - During this week you will be learning how to write a shiny app.
+1. 04/17/2016 
+    - During this week you will be learning how to write a shiny app.
     - Your calculator must be in a single file format.
     - Must be done individually.
     - Turn in Critiques of other groups work (group assignment)
-2. 04/24/2017 - Form a group of 3-4 people and have an idea of what kind of app you want to create by this date.     - Provide me with an explanation of:
+2. 04/24/2017 
+    - Form a group of 3-4 people and have an idea of what kind of app you want to create by this date.  
+    - Provide me with an explanation of:
     - What your app will do?
     - How do you see it being used?
     - What types of options might you try to included for the user.
+    - If you are struggling with ideas [check this out](/ideas)
 3. 05/02/2017-05/03/2017 
     - We will spend 2 classes this week working on your app
     - Bring a rough copy of your app to class.
@@ -62,7 +66,8 @@ It is very important in the world of Big Data and Computing that we learn how to
     - We will take this last class to explore the apps together.
     - Each group will briefly discuss their app and show how to use it.
     - Presentations must be concise and display usage of the app.
-5. 05/16/2017 - Final App due to me.
+5. 05/16/2017 
+    - Final App due to me.
     - You must have your final app in either a 1 or 2 file format.
     - Provide an explanation of how it is to be used and discussing the creation of it.
     - Detail the parts of the app you did individually.
