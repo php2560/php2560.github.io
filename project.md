@@ -58,6 +58,7 @@ It is very important in the world of Big Data and Computing that we learn how to
     - How do you see it being used?
     - What types of options might you try to included for the user.
     - If you are struggling with ideas [check this out](/ideas)
+    - [Project Starter Code](https://classroom.github.com/group-assignment-invitations/b77f48fc4b1da879109937becd702531)
 3. 05/02/2017-05/03/2017 
     - We will spend 2 classes this week working on your app
     - Bring a rough copy of your app to class.
